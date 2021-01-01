@@ -1,3 +1,9 @@
+#formulas
+Формула Миффлина — Джеора
+ccal = 5 + (10* w) + (6.25*h) - (5*age)
+https://ru.wikipedia.org/wiki/Индекс_массы_тела
+I = w/pow(0.01*h, 2)
+
 # tools
 
 Export youtube watchlist as csv: 
