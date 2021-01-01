@@ -1,8 +1,12 @@
 #formulas
 Формула Миффлина — Джеора
+```python
 ccal = 5 + (10* w) + (6.25*h) - (5*age)
+```
 https://ru.wikipedia.org/wiki/Индекс_массы_тела
+```python
 I = w/pow(0.01*h, 2)
+```
 
 # tools
 
