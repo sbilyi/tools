@@ -31,3 +31,14 @@ console.log(resultingCSV);
 
 
 ```
+
+
+
+```python
+// format (5000, 1.03, 27)
+def savings(payment, percents, years):
+  sum = 0;
+  for year in range(years):
+    sum += payment * pow(percents, year);
+  return sum
+```
